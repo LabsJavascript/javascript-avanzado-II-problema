@@ -1,0 +1,17 @@
+{
+  "name": "@labsjavascript/calculator",
+  "version": "1.0.0",
+  "description": "Funcionalidades para calculadora",
+  "main": "index.js",
+  "scripts": {
+    "publish:npm": "npm publish --access public"
+  },
+  "eslintConfig": {
+    "extends": "node_modules/standard/eslintrc.json"
+  },
+  "author": "Rob",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@labsjavascript/calculator": "^1.0.0"
+  }
+}
